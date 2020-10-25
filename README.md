@@ -1,5 +1,5 @@
 # Shewanella-Modeling
-Subproject for Predicting Shewanella Growth trend in an MFC
+Subproject for predicting shewanella growth trend in an MFC
 
 This is a numerical integration intended to predict the time-dependent trends in lactate availability and shewanella population given arbitrary initial conditions in terms of bacterial mass, lactate amount, and solution volume.
 
@@ -14,4 +14,5 @@ Given the magnitude of the above lactate consumption rate, growth rate is simply
 
 
 Useful information for this project may be found here:
-https://bionumbers.hms.harvard.edu/bionumber.aspx?s=n&v=1&id=111302
+https://bionumbers.hms.harvard.edu/bionumber.aspx?s=n&v=1&id=111302 - lactate consumption rate at a growth rate of 0.085h^-1
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/bit.21101 - model/experiment comparison for shewanella growth (see page 129)

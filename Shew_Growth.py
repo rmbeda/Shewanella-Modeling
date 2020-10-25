@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 # Robert, remember to run using Python3 in order to avoid weird 'infinite loop' error
 # Before running, vary initial conditions and time-step info as desired:
 
-V = 0.077 # Assumed volume of one half-cell (the one with the bacteria)
+V = 0.775/2 # Assumed volume of one half-cell (the one with the bacteria)
 m0 = 0.001 # g
 lc0 = 0.01 # mol (= ~0.9 g)
 tmax = 1000 # Number of hours over which to run the simulation

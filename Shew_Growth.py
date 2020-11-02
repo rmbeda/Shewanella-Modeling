@@ -12,10 +12,9 @@ import matplotlib.pyplot as plt
 V = 0.775/2 # L - Assumed volume of one half-cell (the one with the bacteria)
 m0 = 0.03 # g - Initial bacterial population mass
 lc0_m = 0.05
-lc0 = 5 # mol (= ~0.9 g) - Initial moles of lactate
-tmax = 72 # Number of hours over which to run the simulation
-steps = 7200 # Number of time steps to use
-print(lc0)
+lc0 = 0.25 # mol (= ~0.9 g) - Initial moles of lactate
+tmax = 1000 # Number of hours over which to run the simulation
+steps = 20000 # Number of time steps to use
 # For non-debugging use, don't edit past here.
 
 molm = 90.08 # molar mass of lactate (g/mol)

@@ -12,7 +12,8 @@ Given 'l' moles of lactate, 'm' grams of bacteria and volume 'V', lactate consum
 
 Given the magnitude of the above lactate consumption rate, growth rate is simply that magnitude multiplied by the assumed ratio between doubling time and lactate consumption.
 
-Useful information for this project may be found here:
+Useful information for this project may be found at locations below:
+
 https://bionumbers.hms.harvard.edu/bionumber.aspx?s=n&v=1&id=111302 - lactate consumption rate at a growth rate of 0.085h^-1
 
 https://onlinelibrary.wiley.com/doi/pdf/10.1002/bit.21101 - model/experiment comparison for shewanella growth (see page 129)

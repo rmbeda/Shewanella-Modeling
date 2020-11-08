@@ -4,6 +4,7 @@ Subproject for predicting shewanella growth trend in an MFC
 This is a numerical integration intended to predict the time-dependent trends in lactate availability and shewanella population given arbitrary initial conditions in terms of bacterial mass, lactate amount, and solution volume.
 
 Main assumptions:
+
 Assumption 1: Linear relation between bacterial growth rate and lactate consumption, based on a ratio between values found in the first link below.
 
 Assumption 2: Lactate in the presence of a bacterium at a given time instant is consumed and contributes towards growth.
